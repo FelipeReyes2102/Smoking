@@ -1,0 +1,108 @@
+/* Estilos para la página web */
+body { 
+ 
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+
+
+/* Estilos para el collage */
+.collage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.collage img {
+  width: calc(33.33% - 10px);
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+/* Estilos para la vista ampliada */
+.vista-ampliada {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.cerrar {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+
+.imagen-ampliada {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  max-height: 80%;
+}
+/* Estilos para el footer */
+footer {
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  padding: 20px 0;
+  width: 150%;
+  height: 15%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo img {
+  height:50px;
+  
+}
+
+.redes-sociales a {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.contacto {
+  display: flex;
+  align-items: center;
+}
+
+.contacto i {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.contacto span {
+  color: #fff;
+}
+
+/* Estilos para los íconos */
+.fab {
+  font-size: 24px;
+}
+
+.fas {
+  font-size: 18px;
+}

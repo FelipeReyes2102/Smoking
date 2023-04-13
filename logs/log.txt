@@ -1,0 +1,15 @@
+[08-Apr-2023 03:04:07 Europe/Berlin] PHP Warning:  require(ivan.com): failed to open stream: No such file or directory in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[08-Apr-2023 03:04:07 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'ivan.com' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[08-Apr-2023 03:05:52 Europe/Berlin] PHP Warning:  require(ivan.com): failed to open stream: No such file or directory in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[08-Apr-2023 03:05:52 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'ivan.com' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[09-Apr-2023 04:03:25 Europe/Berlin] PHP Warning:  require(ivan.com): failed to open stream: No such file or directory in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[09-Apr-2023 04:03:25 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'ivan.com' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[09-Apr-2023 04:03:29 Europe/Berlin] PHP Warning:  require(ivan.com): failed to open stream: No such file or directory in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[09-Apr-2023 04:03:29 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'ivan.com' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 7
+[09-Apr-2023 04:03:34 Europe/Berlin] PHP Warning:  require(xd): failed to open stream: No such file or directory in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 8
+[09-Apr-2023 04:03:34 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'xd' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 8
+[09-Apr-2023 04:11:40 Europe/Berlin] PHP Warning:  require(xd): failed to open stream: No such file or directory in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 8
+[09-Apr-2023 04:11:40 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'xd' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 8
+[09-Apr-2023 04:12:15 Europe/Berlin] PHP Warning:  Division by zero in C:\xampp\htdocs\Proyecto14_Final\logs\index.php on line 9
+[09-Apr-2023 04:17:31 Europe/Berlin] PHP Warning:  require(error 40): failed to open stream: No such file or directory in C:\xampp\htdocs\Proyecto14_Final\login3.php on line 25
+[09-Apr-2023 04:17:31 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'error 40' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Proyecto14_Final\login3.php on line 25
